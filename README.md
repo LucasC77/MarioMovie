@@ -21,3 +21,6 @@
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
+## 🔗 Créditos
+
+ https://www.youtube.com/@leovargas
